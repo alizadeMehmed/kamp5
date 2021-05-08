@@ -32,9 +32,9 @@ public class InMemoryUserDao implements UserDao {
 	}
 
 	@Override
-	public List<User> getAll(User user) {
-		return this.users;
-
+	public List<User> getAll() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
 }

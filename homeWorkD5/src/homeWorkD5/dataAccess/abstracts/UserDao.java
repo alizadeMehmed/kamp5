@@ -11,5 +11,5 @@ public interface UserDao {
 
 	void delete(User user);
 
-	List<User> getAll(User user);
+	List<User> getAll();
 }
